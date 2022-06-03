@@ -1,3 +1,12 @@
 {
-  "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main"
+  "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
+  "hostRules": [
+    {
+      "matchHost": "https://github.com/Ioan-Org-GH/forst",
+      "hostType": "maven",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf7B+0U+0NijT/cvklS7//9qI7qTcbF2BR/lzpZiTuVmkWAOFK1mqWp7kkI2SB0SztEX1OpXOvLu3jah+FjFY0RHuccDepGWv5/hXVnRt/5XMM4IgJVwLiwf6xavpwTcg6P2TVKXUrO/edO542/aV/J1tZI6A7FPMt3+AtaL4rekKnesHE7MsIaiQ497zC7mmYHy+2bN43TFwElZpYyXMAZJoiV7o8pvkK3A7POI/UylF9T9AYjtUNDWw/YXDzK/bqJWdASGZ0o/0b8LLTWtwQ4BFGprvrkkokzuyh4IWqupdygvObMXUZ5u7PUNwNtn1qpUUcLbW3FeAMr23ZfVMKOj9J8AWCpTgzg4hU+2ANoQSZVTiaEysO4h44blojBbXI2qAZEpi5Uy98uSFLiRMfh/0Cp+MPSsuXUWlqWO4IPTplRttA4dgoXdwUcXtHg5awFzDR1k49i5503l2/PhFm2cZ4m5cn+BX0KKmsdg/qoD0UBVB4QD/pYD6D3pFQXZw"
+      }
+    }
+  ]
 }
