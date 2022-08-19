@@ -1,4 +1,7 @@
 {
+
+
+
   "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
   "hostRules": [
     {
@@ -10,3 +13,6 @@
     }
   ]
 }
+
+
+
